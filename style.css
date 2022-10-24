@@ -13,6 +13,15 @@ p{
     font-size: 40%;
 
 }
+.itens{
+    font-style: italic;
+    text-align: left;
+}
+
+.beneficios{
+    background-color: lightcoral;
+}
+
 
 #imagem1{
     width: 100%;
