@@ -28,3 +28,9 @@ p{
     height: 20%;
     border: 5px solid rgb(224, 154, 61);
 }
+ul{
+  display: inline-block;
+  vertical-align: top;  
+  margin: 3%;
+  list-style: circle;
+}
